@@ -1,0 +1,5 @@
+https://github.com/Explore-AI/cloud-computing-predict.git
+
+https://github.com/glenda2002/glenda-predict-project.git
+
+arn:aws:dynamodb:eu-west-1:849406949723:table/Glenda_DynamoDB
